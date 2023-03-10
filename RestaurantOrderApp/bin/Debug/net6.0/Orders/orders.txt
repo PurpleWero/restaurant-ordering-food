@@ -1,0 +1,36 @@
+Order: 
+Wings - $6.99
+Pizza - $8.99
+Beer - $2.99
+Beer - $2.99
+Total: $21.96
+
+Preparing your order...
+Your order is on the way
+Your order has been delivered
+-------------------------------
+
+Order: 
+Butter Pecan - $1.99
+Milkshake - $3.99
+Ice Cream - $1.99
+Vanilla Cone - $1.49
+Total: $9.46
+
+Preparing your order...
+Your order is on the way
+Your order has been delivered
+-------------------------------
+
+Order: 
+Water - $0.99
+Wings - $6.99
+Wrap - $2.99
+Burger - $4.99
+Total: $15.96
+
+Preparing your order...
+Your order is on the way
+Your order has been delivered
+-------------------------------
+

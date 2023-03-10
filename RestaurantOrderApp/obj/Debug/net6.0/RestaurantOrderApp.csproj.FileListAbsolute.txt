@@ -1,0 +1,15 @@
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\bin\Debug\net6.0\RestaurantOrderApp.exe
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\bin\Debug\net6.0\RestaurantOrderApp.deps.json
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\bin\Debug\net6.0\RestaurantOrderApp.runtimeconfig.json
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\bin\Debug\net6.0\RestaurantOrderApp.dll
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\bin\Debug\net6.0\RestaurantOrderApp.pdb
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.csproj.AssemblyReference.cache
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.AssemblyInfoInputs.cache
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.AssemblyInfo.cs
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.dll
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\refint\RestaurantOrderApp.dll
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.pdb
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\RestaurantOrderApp.genruntimeconfig.cache
+C:\Users\calm2\source\repos\RestaurantOrderApp\RestaurantOrderApp\obj\Debug\net6.0\ref\RestaurantOrderApp.dll
